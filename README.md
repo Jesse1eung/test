@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- List Of Websites-->
 [archcraft]: https://archcraft-os.github.io
 [archcrafts]: https://github.com/archcraft-os
@@ -69,3 +70,4 @@ I'm a Software Developer, System Designer & Linux Enthusiast!
 [<img align="left" alt="adi1090x | Reddit" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" />][ko-fi]
 [<img align="left" alt="adi1090x | Github" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" />][paypal]
 [<img align="left" alt="adi1090x | Instagram" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/4.png" />][patreon]
+>>>>>>> bac8df7966f4b54ee79e6f78ec342fe6ec9023dd
